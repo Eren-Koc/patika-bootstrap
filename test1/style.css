@@ -1,0 +1,13 @@
+body{
+    background-color: #E9ECEF;
+    width: 100%;
+    min-height:100vh;
+    height: fit-content;
+}
+
+.product-img{
+    width: 350px;
+    height: 400px;
+    object-fit: contain;
+    object-position: center;
+}
